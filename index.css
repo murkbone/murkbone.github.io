@@ -1,0 +1,43 @@
+.h1-dark {
+    color: white;
+}
+
+.h3-dark {
+    color: white;
+}
+
+.h5-dark {
+    color: white;
+}
+
+.span-dark {
+    color: white;
+}
+
+.p-dark {
+    color: white;
+}
+
+.a-dark {
+    color: lightgray;
+}
+
+.a-dark:hover {
+    color:lightslategray;
+}
+
+.li-dark {
+    color:white;
+}
+
+.modal_content-dark {
+    background-color: #3e3e3e;
+}
+
+.modal_header-dark {
+    border-bottom: 1px solid #272424;
+}
+
+.modal_footer-dark {
+    border-top: 1px solid #272424;
+}

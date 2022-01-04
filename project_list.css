@@ -1,0 +1,22 @@
+.list_name {
+    text-align: left;
+}
+
+.project_desc {
+    font-style: italic;
+    font-size: 20px;
+    display: inline-block;
+    max-width: 512px;
+    word-wrap:normal;
+}
+
+.project_work_desc {
+    font-weight: bold;
+    font-size: medium;
+    font-style: italic;
+    display: inline-block;
+}
+
+.li_project {
+    padding: 12px;
+}
