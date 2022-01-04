@@ -1,0 +1,78 @@
+<html>
+    <head>
+        <title>rocket</title>
+        
+        <meta charset="utf-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+
+        <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css" integrity="sha384-JcKb8q3iqJ61gNV9KGb8thSsNjpSL0n8PARn9HuZOnIxN0hoP+VmmDGMN5t9UJ0Z" crossorigin="anonymous">
+        <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.6.1/font/bootstrap-icons.css">
+
+        <script src="js/copyright.js"></script>
+        <script src="js/darkmode.js"></script>
+        <script src="js/cookie_consent.js"></script>
+        <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js" integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo" crossorigin="anonymous"></script>
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.3/umd/popper.min.js" integrity="sha384-ZMP7rVo3mIykV+2+9J3UJ46jBk0WLaUAdn689aCwoqbBJiSnjAK/l8WvCWPIPm49" crossorigin="anonymous"></script>
+        <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js" integrity="sha384-B4gt1jrGC7Jh4AgTPSdUtOBvfO8shuf57BaghqFfPlYxofvL8/KUEfYiJOMMV+rV" crossorigin="anonymous"></script>
+        <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.bundle.min.js" integrity="sha384-LtrjvnR4Twt/qOuYxE721u19sVFLVSA4hf/rRt6PrZTmiPltdZcI7q7PXQBYTKyf" crossorigin="anonymous"></script>
+
+        <link rel="stylesheet" href="css/index.css">
+        <link rel="stylesheet" href="css/copyright.css">
+
+        <meta property="og:title" content="rocket" />
+        <meta property="og:description" content="Programmer sometimes" />
+        <meta property="og:site_name" content="rocket" />
+        <meta property="og:image" content="https://avatars.githubusercontent.com/u/96433729?v=4" />
+
+        <meta property="twitter:card" content="summary" />
+        <meta property="twitter:creator" content="rocket" />
+        <meta property="twitter:image" content="https://avatars.githubusercontent.com/u/96433729?v=4" />
+    </head>
+    <body>
+        <nav class="navbar navbar-expand-lg navbar-light bg-light">
+            <a class="navbar-brand" href="index.html">rocket</a>
+            <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNavAltMarkup" aria-controls="navbarNavAltMarkup" aria-expanded="false" aria-label="Toggle nagivation">
+                <span class="navbar-toggler-icon"></span>
+            </button>
+            <div class="collapse navbar-collapse" id="navbarNavAltMarkup">
+                <div class="navbar-nav">
+                    <a class="nav-item nav-link" href="projects.html">projects</a>
+                    <a class="nav-item nav-link" href="about.html">about</a>
+                </div>
+                <btn onclick="togglePageTheme()" id="dark_toggler" style="margin-left: auto; margin-right: 0; cursor: pointer; font-size: 1.75rem;" class="bi-moon-fill"> </btn>
+            </div>
+        </nav>
+
+        <div class="container-fluid">
+            <h1>welcome to my website.</h1>
+            <p>here you'll find information about who I am, what I do, and where you can find me online. this website is still a work in progress, but it probably won't be updated much</p>
+        </div>
+
+        <div class="modal fade" id="modal_cookie" tabindex="-1" role="dialog" aria-labelledby="modalCookie" aria-hidden="true">
+            <div class="modal-dialog modal-dialog-centered" role="document">
+                <div class="modal-content">
+                    <div class="modal-header">
+                        <h5 class="modal-title">About Cookies</h5>
+                    </div>
+
+                    <div class="modal-body">
+                        <span>look, i'll lay it to you straight. i don't use any sort of tracking cookies because that shit sucks. the only cookies I use on this site is one for storing if you prefer light or dark mode, and one for if you've seen this notice or not.</span>
+                        <br />
+                        <br />
+                        <span>these cookies are required for basic site functionality, and as such cannot be turned off.</span>
+                    </div>
+
+                    <div class="modal-footer">
+                        <button type="button" class="btn btn-primary" data-dismiss="modal">OK</button>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <footer>
+            <div class="fixed-bottom footer-copyright text-left py-3">
+                <span id="copyright_string" class="text-muted"></span>
+            </div>
+        </footer>
+    </body>
+</html>
