@@ -31,10 +31,10 @@ _PROJECTS = [
     new Tile("Fiberopt", "a short batch game about loneliness", "coding", "https://github.com/schneerocket/Fiberopt", "web_fpr", "list_unreleased", true, true),
     
     //January 2022
-    new Tile("Epoch", "Easy to use mod loader + injector for JesusAI", "coding, writing injection methods", "https://github.com/schneerocket/Epoch", "web_fpr", "list_2022_january", true, true),
+    new Tile("Unix Epoch", "Easy to use mod loader + injector for JesusAI", "coding, writing injection methods", "https://github.com/schneerocket/Unix-Epoch", "web_fpr", "list_2022_january", true, true),
     
     // December 2021
-    new Tile("abyss (scrapped)", "a game of descending layers to find... something", "coding", "https://github.com/schneerocket/abyss-ABANDONED-", "web_fpr", "list_2021_december", true, true), 
+    new Tile("abyss (Scrapped)", "a game of descending layers to find... something", "coding", "https://github.com/schneerocket/abyss-ABANDONED-", "web_fpr", "list_2021_december", true, true), 
 ]
 
 function getListEntry(list_id) {
