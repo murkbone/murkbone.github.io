@@ -28,7 +28,7 @@ _PROJECTS = [
     // Unreleased / In Development
     new Tile("JesusAI", "a batch game involving Jesus, debugging features and 4 endings", "co-developing, recoding parts of the game", "https://github.com/JesusAIexperience/JesusAI", "web_fpr", "list_unreleased", true, true),
     new Tile("JesusAI Cartridges", "optional DLC that can run from JesusAI", "coding", "https://github.com/schneerocket/JesusAI-Cartridges", "web_fpr", "list_unreleased", true, true),
-    new Tile("Fiberopt", "a short batch game about loneliness", "coding", "https://github.com/schneerocket/Fiberopt", "web_fpr", "list_unreleased", true, true),
+    new Tile("Fiberopt (on Hiatus)", "a short batch game about loneliness", "coding", "https://github.com/schneerocket/Fiberopt", "web_fpr", "list_unreleased", true, true),
     
     //January 2022
     new Tile("Unix Epoch", "Easy to use mod loader + injector for JesusAI", "coding, writing injection methods", "https://github.com/schneerocket/Unix-Epoch", "web_fpr", "list_2022_january", true, true),
