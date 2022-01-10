@@ -1,5 +1,5 @@
 // File: copyright.js
-// Author: rocket
+// Author: DREZMOR
 // Purpose: handles storing copyright info across the site.
 
 // Purpose: Holds the master copyright string
