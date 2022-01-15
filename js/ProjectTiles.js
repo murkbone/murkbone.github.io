@@ -35,7 +35,7 @@ _PROJECTS = [
     
     // December 2021
     new Tile("abyss (Scrapped)", "a game of descending layers to find... something", "coding", "https://github.com/DREZMOR/ABANDONED-abyss", "web_fpr", "list_2021_december", false, false), 
-    new Tile("Fiberopt (Scrapped)", "a short batch game about loneliness", "coding", "https://github.com/DREZMOR/Fiberopt", "web_fpr", "list_2021_december", false, false),
+    new Tile("Fiberopt (Scrapped)", "A short Batch game about loneliness", "coding", "https://github.com/DREZMOR/Fiberopt", "web_fpr", "list_2021_december", false, false),
 ]
 
 function getListEntry(list_id) {
