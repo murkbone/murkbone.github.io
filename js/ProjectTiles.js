@@ -34,8 +34,8 @@ _PROJECTS = [
     new Tile("Unix Epoch", "Easy to use mod loader + injector for JesusAI", "coding, writing injection methods", "https://github.com/DREZMOR/Unix-Epoch", "web_fpr", "list_2022_january", true, true),
     
     // December 2021
-    new Tile("abyss (Scrapped)", "a game of descending layers to find... something", "coding", "https://github.com/DREZMOR/ABANDONED-abyss", "web_fpr", "list_2021_december", true, false), 
-    new Tile("Fiberopt (Scrapped)", "A short Batch game about loneliness", "coding", "https://github.com/DREZMOR/Fiberopt", "web_fpr", "list_2021_december", true, false),
+    new Tile("abyss (Scrapped)", "a game of descending layers to find... something", "coding", "https://github.com/DREZMOR/ABANDONED-abyss", "web_fpr", "list_2021_december", false, true), 
+    new Tile("Fiberopt (Scrapped)", "A short Batch game about loneliness", "coding", "https://github.com/DREZMOR/Fiberopt", "web_fpr", "list_2021_december", false, true),
 ]
 
 function getListEntry(list_id) {
