@@ -25,17 +25,17 @@ _LISTS = [
 ]
 
 _PROJECTS = [
-    // Unreleased / In Development
+    // in development
     new Tile("JesusAI", "a batch game involving Jesus, debugging features and 4 endings", "co-developing, recoding parts of the game", "https://github.com/JesusAIexperience/JesusAI", "web_fpr", "list_unreleased", true, true),
-    new Tile("JesusAI Cartridges", "optional DLC that can run from JesusAI", "coding", "https://github.com/RAAKNET/JesusAI-Cartridges", "web_fpr", "list_unreleased", true, true),
-    new Tile("Cortisol", "A 2-player Batch game about teamwork and stress", "coding", "https://github.com/RAAKNET/Cortisol", "web_fpr", "list_unreleased", true, true),
+    new Tile("JesusAI Cartridges", "optional DLC that can run from JesusAI", "coding", "https://github.com/meowfluff/JesusAI-Cartridges", "web_fpr", "list_unreleased", true, true),
+    new Tile("Cortisol", "A 2-player Batch game about teamwork and stress", "coding", "https://github.com/meowfluff/Cortisol", "web_fpr", "list_unreleased", true, true),
     
-    //January 2022
-    new Tile("Unix Epoch", "Easy to use mod loader + injector for JesusAI", "coding, writing injection methods", "https://github.com/RAAKNET/Unix-Epoch", "web_fpr", "list_2022_january", true, true),
+    // january 2022
+    new Tile("Unix Epoch", "Easy to use mod loader + injector for JesusAI", "coding, writing injection methods", "https://github.com/meowfluff/Unix-Epoch", "web_fpr", "list_2022_january", true, true),
     
-    // December 2021
-    new Tile("abyss (Scrapped)", "a game of descending layers to find... something", "coding", "https://github.com/RAAKNET/ABANDONED-abyss", "web_fpr", "list_2021_december", false, true), 
-    new Tile("Fiberopt (Scrapped)", "A short Batch game about loneliness", "coding", "https://github.com/RAAKNET/Fiberopt", "web_fpr", "list_2021_december", false, true),
+    // december 2021
+    new Tile("abyss (Scrapped)", "a game of descending layers to find... something", "coding", "https://github.com/meowfluff/ABANDONED-abyss", "web_fpr", "list_2021_december", false, true), 
+    new Tile("Fiberopt (Scrapped)", "A short Batch game about loneliness", "coding", "https://github.com/meowfluff/Fiberopt", "web_fpr", "list_2021_december", false, true),
 ]
 
 function getListEntry(list_id) {
