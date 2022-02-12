@@ -20,7 +20,7 @@ class Tile {
 
 _LISTS = [
     new List("Unreleased / In Development", "list_unreleased"),
-    new List("February 2022", "list_2022_february",
+    new List("February 2022", "list_2022_february"),
     new List("January 2022", "list_2022_january"),
     new List("December 2021", "list_2021_december")
 ]
@@ -32,7 +32,7 @@ _PROJECTS = [
     new Tile("Cortisol", "A 2-player Batch game about teamwork and stress", "coding", "https://github.com/meowfluff/Cortisol", "web_fpr", "list_unreleased", true, true),
     
     // february 2022
-    new Tile("Make a SPECIL Valentine", "A text-based dating sim about finding true love", "coding the entire game", "https://github.com/meowfluff/Make-a-SPECIL-Valentine", "web_fpr", "list_2022_february", true, true),
+    new Tile("Make a SPECIL Valentine!", "A text-based dating sim about finding true love", "coding the entire game", "https://github.com/meowfluff/Make-a-SPECIL-Valentine", "web_fpr", "list_2022_february", true, true),
     
     // january 2022
     new Tile("Unix Epoch", "Easy to use mod loader + injector for JesusAI", "coding, writing injection methods", "https://github.com/meowfluff/Unix-Epoch", "web_fpr", "list_2022_january", true, true),
