@@ -29,7 +29,7 @@ _PROJECTS = [
     // in development
     new Tile("JesusAI", "a batch game involving Jesus, debugging features and 4 endings", "co-developing, recoding parts of the game", "https://github.com/JesusAIexperience/JesusAI", "web_fpr", "list_unreleased", true, true),
     new Tile("JesusAI Cartridges", "optional DLC that can run from JesusAI", "coding", "https://github.com/meowfluff/JesusAI-Cartridges", "web_fpr", "list_unreleased", true, true),
-    new Tile("Cortisol", "A 2-player Batch game about teamwork and stress", "coding", "https://github.com/meowfluff/Cortisol", "web_fpr", "list_unreleased", true, true),
+    new Tile("Auxilium", "A 2-player experience about teamwork and betrayal", "coding", "https://github.com/meowfluff/Auxilium", "web_fpr", "list_unreleased", true, true),
     
     // february 2022
     new Tile("Make a SPECIL Valentine!", "A text-based dating sim about finding true love", "coding the entire game", "https://github.com/meowfluff/Make-a-SPECIL-Valentine", "web_fpr", "list_2022_february", true, true),
