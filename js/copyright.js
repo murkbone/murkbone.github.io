@@ -1,9 +1,9 @@
 // File: copyright.js
-// Author: meowfluff
+// Author: enfier
 // Purpose: handles storing copyright info across the site.
 
 // Purpose: Holds the master copyright string
-var COPYRIGHT_STRING = "copyright 2022 meowfluff. all rights reserved i guess.";
+var COPYRIGHT_STRING = "copyright 2022 enfier. all rights reserved.";
 
 // Purpose: wait for the page to load
 document.addEventListener('DOMContentLoaded', function() {
