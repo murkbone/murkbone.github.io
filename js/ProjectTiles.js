@@ -33,6 +33,7 @@ _PROJECTS = [
     // march 2022
     new Tile("JesusAI", "a batch game involving Jesus, debugging features and 4 endings", "co-developing, recoding parts of the game", "https://github.com/JesusAIexperience/JesusAI", "web_fpr", "list_2022_march", true, true),
     new Tile("JesusAI Cartridges", "optional DLC that can run from JesusAI", "coding", "https://github.com/enfier/JesusAI-Cartridges", "web_fpr", "list_2022_march", true, true),
+    new Tile("Flip a Coin", "An experimental tech demo about, you guessed it, flipping a coin", "coding, creating number generator methods", "https://github.com/enfier/Flip-a-Coin", "web_fpr", "list_2022_march", true, true),
     
     // february 2022
     new Tile("Make a SPECIL Valentine!", "A text-based dating sim about finding true love", "coding the entire game", "https://github.com/enfier/Make-a-SPECIL-Valentine", "web_fpr", "list_2022_february", true, true),
