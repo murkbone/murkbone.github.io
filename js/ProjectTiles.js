@@ -20,6 +20,7 @@ class Tile {
 
 _LISTS = [
     new List("Incomplete / In Development", "list_unreleased"),
+    new List("April 2022", "list_2022_april"),
     new List("March 2022", "list_2022_march"),
     new List("February 2022", "list_2022_february"),
     new List("January 2022", "list_2022_january"),
@@ -29,6 +30,9 @@ _LISTS = [
 _PROJECTS = [
     // in development
     new Tile("Auxilium", "A two player or singleplayer experience about teamwork and betrayal", "coding", "https://github.com/enfier/Auxilium", "web_fpr", "list_unreleased", true, true),
+
+    // april 2022
+    new Tile("boot9strap", "Third-party CFW code executor", "establishing concept", "https://github.com/enfier/boot9strap", "web_fpr", "list_2022_april", "true", "true"),
     
     // march 2022
     new Tile("JesusAI", "a batch game involving Jesus, debugging features and 4 endings", "co-developing, recoding parts of the game", "https://github.com/JesusAIexperience/JesusAI", "web_fpr", "list_2022_march", true, true),
