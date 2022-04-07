@@ -30,9 +30,10 @@ _LISTS = [
 _PROJECTS = [
     // in development
     new Tile("Auxilium", "A two player or singleplayer experience about teamwork and betrayal", "coding", "https://github.com/enfier/Auxilium", "web_fpr", "list_unreleased", true, true),
-
+    
     // april 2022
     new Tile("boot9strap", "Third-party CFW code executor", "establishing concept", "https://github.com/enfier/boot9strap", "web_fpr", "list_2022_april", true, true),
+    new Tile("arm9loaderhax", "Free-to-download powerful Auxilium modding tools", "establishing concept, helping with tools", "https://github.com/enfier/arm9loaderhax", "web_fpr", "list_2022_april", true, true),
     
     // march 2022
     new Tile("JesusAI", "a batch game involving Jesus, debugging features and 4 endings", "co-developing, recoding parts of the game", "https://github.com/JesusAIexperience/JesusAI", "web_fpr", "list_2022_march", true, true),
