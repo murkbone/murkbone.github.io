@@ -1,5 +1,5 @@
 // File: cookie_consent.js
-// Author: rocket
+// Author: ritz
 // Purpose: handles notifying visitors about cookies on the site.
 
 // copyright 2022 schneerocket. all rights reserved.
@@ -7,12 +7,12 @@
 // Purpose: sets if the visitor has seen the notice
 function setHasSeenCookieNotice(in_bool) {
     // Sets under the local storage
-    window.localStorage.setItem("rocket:seen_cookie_notice", in_bool);
+    window.localStorage.setItem("ritz:seen_cookie_notice", in_bool);
 }
 
 // Purpose: gets if the visitor has seen the notice
 function getHasSeenCookieNotice() {
-    return window.localStorage.getItem("rocket:seen_cookie_notice");
+    return window.localStorage.getItem("ritz:seen_cookie_notice");
 }
 
 // Purpose: Cclls the modal
