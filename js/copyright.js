@@ -1,5 +1,5 @@
 // File: copyright.js
-// Author: enfier
+// Author: ritz
 // Purpose: handles storing copyright info across the site.
 
 // Purpose: Holds the master copyright string
