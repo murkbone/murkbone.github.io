@@ -1,5 +1,5 @@
 // File: darkmode.js
-// Author: rocket
+// Author: ritz
 // Purpose: provides a dark mode for the ui site
 
 _PAGE_THEME = 0;
