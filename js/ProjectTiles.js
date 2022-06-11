@@ -30,30 +30,29 @@ _LISTS = [
 
 _PROJECTS = [
     // in development
-    new Tile("Scrinium", "A singleplayer text-based puzzle game", "coding, puzzle design", "https://github.com/enfier/scrinium", "web_fpr", "list_unreleased", true, true),
-    new Tile("hekate", "Text-based easy to use file backup creator", "conceptualization, coding", "https://github.com/enfier/hekate", "web_fpr", "list_unreleased", true, true),
+    new Tile("sentaku!", "A singleplayer text-based puzzle game", "coding, puzzle design", "https://github.com/grocerybagmp3/sentaku", "web_fpr", "list_unreleased", true, true),
     
     // may 2022
-    new Tile("Auxilium", "A singleplayer/cooperative puzzle game. Project was cancelled.", "coding", "https://github.com/enfier/Auxilium", "web_fpr", "list_2022_may", true, true),
+    new Tile("Auxilium", "A singleplayer/cooperative puzzle game. Project was cancelled.", "coding", "https://github.com/grocerybagmp3/Auxilium", "web_fpr", "list_2022_may", true, true),
     
     // april 2022
-    new Tile("boot9strap", "Third-party CFW code executor", "establishing concept", "https://github.com/enfier/boot9strap", "web_fpr", "list_2022_april", true, true),
-    new Tile("arm9loaderhax", "Free-to-download powerful Auxilium modding tools", "establishing concept, helping with tools", "https://github.com/enfier/arm9loaderhax", "web_fpr", "list_2022_april", true, true),
+    new Tile("boot9strap", "Third-party CFW code executor", "establishing concept", "https://github.com/grocerybagmp3/boot9strap", "web_fpr", "list_2022_april", true, true),
+    new Tile("arm9loaderhax", "Free-to-download powerful Auxilium modding tools", "establishing concept, helping with tools", "https://github.com/grocerybagmp3/arm9loaderhax", "web_fpr", "list_2022_april", true, true),
     
     // march 2022
-    new Tile("JesusAI", "a batch game involving Jesus, debugging features and 4 endings", "co-developing, recoding parts of the game", "https://github.com/JesusAIexperience/JesusAI", "web_fpr", "list_2022_march", true, true),
-    new Tile("JesusAI Cartridges", "optional DLC that can run from JesusAI", "coding", "https://github.com/enfier/JesusAI-Cartridges", "web_fpr", "list_2022_march", true, true),
-    new Tile("Flip a Coin", "An experimental tech demo about, you guessed it, flipping a coin", "coding, creating number generator methods", "https://github.com/enfier/Flip-a-Coin", "web_fpr", "list_2022_march", true, true),
+    new Tile("JesusAI", "a batch game involving Jesus, debugging features and 4 endings", "co-developing, recoding parts of the game", "https://github.com/grocerybagmp3/JesusAI", "web_fpr", "list_2022_march", true, true),
+    new Tile("JesusAI Cartridges", "optional DLC that can run from JesusAI", "coding", "https://github.com/grocerybagmp3/JesusAI-Cartridges", "web_fpr", "list_2022_march", true, true),
+    new Tile("Flip a Coin", "An experimental tech demo about, you guessed it, flipping a coin", "coding, creating number generator methods", "https://github.com/grocerybagmp3/Flip-a-Coin", "web_fpr", "list_2022_march", true, true),
     
     // february 2022
-    new Tile("Make a SPECIL Valentine!", "A text-based dating sim about finding true love", "coding the entire game", "https://github.com/enfier/Make-a-SPECIL-Valentine", "web_fpr", "list_2022_february", true, true),
+    new Tile("Make a SPECIL Valentine!", "A text-based dating sim about finding true love", "coding the entire game", "https://github.com/grocerybagmp3/Make-a-SPECIL-Valentine", "web_fpr", "list_2022_february", true, true),
     
     // january 2022
-    new Tile("Unix Epoch", "Easy to use mod loader + injector for JesusAI", "coding, writing injection methods", "https://github.com/enfier/Unix-Epoch", "web_fpr", "list_2022_january", true, true),
+    new Tile("Unix Epoch", "Easy to use mod loader + injector for JesusAI", "coding, writing injection methods", "https://github.com/grocerybagmp3/Unix-Epoch", "web_fpr", "list_2022_january", true, true),
     
     // december 2021
-    new Tile("abyss (Scrapped)", "a game of descending layers to find... something", "coding", "https://github.com/enfier/ABANDONED-abyss", "web_fpr", "list_2021_december", false, true), 
-    new Tile("Fiberopt (Scrapped)", "A short Batch game about loneliness", "coding", "https://github.com/enfier/Fiberopt", "web_fpr", "list_2021_december", false, true),
+    new Tile("abyss (Scrapped)", "a game of descending layers to find... something", "coding", "https://github.com/grocerybagmp3/ABANDONED-abyss", "web_fpr", "list_2021_december", false, true), 
+    new Tile("Fiberopt (Scrapped)", "A short Batch game about loneliness", "coding", "https://github.com/grocerybagmp3/Fiberopt", "web_fpr", "list_2021_december", false, true),
 ]
 
 function getListEntry(list_id) {
